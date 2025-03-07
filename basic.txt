@@ -1,0 +1,10 @@
+npx create-next-app@latest
+
+          src
+           |
+           app
+           |
+         ------
+        |     |
+   backend    frontend
+   routes      pages
